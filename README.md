@@ -12,7 +12,13 @@ pinned: false
 
 [![Generic badge](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/nateraw/animegan-v2-for-videos)
 
-Apply AnimeGAN-v2 across frames of a video
+Apply AnimeGAN-v2 across frames of a video, #animeganv2forvideos is an open ML project that uses #PyTorch to let you do convert video to animation.
+
+## Using HuggingFace App
+
+You can simply use hugging face to convert exising video to animation. If you don't want to write the code and just want to convert your video automatically or turn your webcam stream directly to animated video use the app here
+
+[Appplication](https://huggingface.co/spaces/nateraw/animegan-v2-for-videos)
 
 ---
 
